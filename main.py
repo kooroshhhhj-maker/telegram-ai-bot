@@ -3,7 +3,7 @@ import os
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "8506814649:AAFY14S6SsIG7KC2Zr4zeYHCecsTeSygTUc"
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
